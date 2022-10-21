@@ -1,6 +1,25 @@
 {
     "managers": [],
-    "islands": [],
+    "islands": [
+        {
+            "id": 1,
+            "size": "Large",
+            "weather": "Tropical",
+            "populationMax": "50,000"
+        },
+        {
+            "id": 2,
+            "size": "Medium",
+            "weather": "Arid",
+            "populationMax": "25,000"
+        },
+        {
+            "id": 3,
+            "size": "Small",
+            "weather": "Icy",
+            "populationMax": "5,000"
+        }
+    ],
     "lackeys": [],
     "personas": [],
     "randomEvents": [],
